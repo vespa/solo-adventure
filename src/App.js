@@ -1,5 +1,5 @@
 import React from 'react'
-import Chapter1 from './containers/Chapter1/Chapter1'
+import Chapter1 from 'containers/Chapter1/Chapter1'
 
 import {
   BrowserRouter as Router,
@@ -7,7 +7,6 @@ import {
   Route,
   Link
 } from "react-router-dom";
-
 
 function App() {
   return (
