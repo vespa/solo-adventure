@@ -1,7 +1,11 @@
-import React from 'react'
+import React from "react";
 
 export const Chapter1 = () => {
-    return <div>test</div>
-}
+  return (
+    <>
+      <div>x</div>
+    </>
+  );
+};
 
-export default Chapter1
+export default Chapter1;
